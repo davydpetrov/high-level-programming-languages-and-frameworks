@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vinderbelt\\Desktop\\HLPLF_LW2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0053B8-94D1-B52C-E82F-727663265046}|HLPLF_LW2.esproj|c:\\users\\vinderbelt\\desktop\\hlplf_lw2\\backend\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2A0053B8-94D1-B52C-E82F-727663265046}|HLPLF_LW2.esproj|solutionrelative:backend\\server.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0053B8-94D1-B52C-E82F-727663265046}|HLPLF_LW2.esproj|c:\\users\\vinderbelt\\desktop\\hlplf_lw2\\frontend\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2A0053B8-94D1-B52C-E82F-727663265046}|HLPLF_LW2.esproj|solutionrelative:frontend\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A0053B8-94D1-B52C-E82F-727663265046}|HLPLF_LW2.esproj|c:\\users\\vinderbelt\\desktop\\hlplf_lw2\\frontend\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2A0053B8-94D1-B52C-E82F-727663265046}|HLPLF_LW2.esproj|solutionrelative:frontend\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\Vinderbelt\\Desktop\\HLPLF_LW2\\frontend\\src\\App.css",
+              "RelativeDocumentMoniker": "frontend\\src\\App.css",
+              "ToolTip": "C:\\Users\\Vinderbelt\\Desktop\\HLPLF_LW2\\frontend\\src\\App.css",
+              "RelativeToolTip": "frontend\\src\\App.css",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvzgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-15T15:00:51.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\Vinderbelt\\Desktop\\HLPLF_LW2\\frontend\\src\\App.jsx",
+              "RelativeDocumentMoniker": "frontend\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\Vinderbelt\\Desktop\\HLPLF_LW2\\frontend\\src\\App.jsx",
+              "RelativeToolTip": "frontend\\src\\App.jsx",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwC8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-05-15T15:00:27.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "server.js",
+              "DocumentMoniker": "C:\\Users\\Vinderbelt\\Desktop\\HLPLF_LW2\\backend\\server.js",
+              "RelativeDocumentMoniker": "backend\\server.js",
+              "ToolTip": "C:\\Users\\Vinderbelt\\Desktop\\HLPLF_LW2\\backend\\server.js",
+              "RelativeToolTip": "backend\\server.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-15T14:57:58.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
